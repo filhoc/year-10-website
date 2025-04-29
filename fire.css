@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(0, 255, 81);
+    text-align: center;
+    font-weight: bold;
+    text-shadow: -2px 2px rgb(245, 240, 240);
+    font-family: sans-serif;
+
+}
+h2 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: cursive;
+    text-shadow: -2px 2px hsl(121, 64%, 63%);
+
+}
+p {
+    color: rgb(251, 251, 253);
+    text-align: left;
+    font-size: 10px;
+    font-family: fantasy;
+
+}
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: underline double;
+    font-weight: bold;
+}
+h4 {
+    color: rgb(247, 10, 10);
+    text-align: center;
+    font-family: cursive;
+}
+h5 {
+    color: rgb(247, 246, 246);
+    text-align: center;
+    font-family: cursive;
+}
+b {
+    color: rgb(247, 10, 10);
+    text-align: center;
+    font-family: cursive;
+}
+body {
+    background: rgb(7, 113, 1);
+  }
