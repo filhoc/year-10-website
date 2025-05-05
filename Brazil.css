@@ -6,41 +6,41 @@ h1 {
     font-family: sans-serif;
 
 }
-h3 {
-    color: rgb(255, 255, 255);
-    text-align: center;
-    text-decoration:underline;
-    font-weight: bold;
-}
 h2 {
     color: rgb(255, 255, 255);
     text-align: center;
     font-family: cursive;
     text-shadow: -2px 2px hsl(121, 64%, 63%);
+
+}
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration:dotted;
+    font-weight: bold;
+    font-size: 30px;
 }
 body {
     background: rgb(8, 140, 1);
- }
- a{
+  }
+  p{
+    color: rgb(255, 255, 255);
+    
+  }
+  a{
     text-align: center;
     color: rgb(255, 255, 255);
     font-weight: bold;
     font-size: 25px;
     font-family: sans-serif;
   }
-  h4{
-    color: rgb(255, 255, 255);
-    text-align: center;
-    font-weight: bold;
-    font-size: 20px;
-  }
-  p{
-    color: rgb(255, 255, 255);
-    text-align: center;
-font-size: small;
-  }
   li{
     color: rgb(255, 255, 255);
     font-weight: bold;
+    font-size: 25px;
+  }
+  ol{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
 
   }
